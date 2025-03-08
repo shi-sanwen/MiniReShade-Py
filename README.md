@@ -33,11 +33,10 @@
 miniworld-installer/
 ├── main.py                 # 主程序入口
 ├── install.py              # 安装器核心逻辑
-├── resources/              # 资源文件夹
-│   ├── 7z/                 # 7z解压工具
-│   ├── reshade/            # 光影包资源
-│   │   └─MiNi-reshade.zip
-│   └── icons/              # 图标资源
+├── 7z/                     # 7z解压工具
+├── reshade/                # 光影包资源
+│   └─MiNi-reshade.zip
+├── main-ico.ico            # 图标资源
 ├── logs/                   # 日志文件夹
 └── README.md               # 项目说明
 ```
