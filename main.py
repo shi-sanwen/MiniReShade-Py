@@ -888,5 +888,5 @@ if __name__ == "__main__":
 
 
 
-# PyInstaller --onefile --debug=all --windowed --clean --noconsole --name 光影包安装器x86x64 --icon="D:\programming\一键安装包\main-ico.ico" --add-data "reshade\MiNi-reshade.zip;reshade" --add-data "7z\7z.exe;7z" --add-data "7z\7z.dll;7z" --hidden-import tqdm --hidden-import win32com.client --version-file main.txt install.py
+# PyInstaller --onefile --debug=all --windowed --clean --noconsole --name 光影包安装器x86x64 --icon="D:\programming\一键安装包\main-ico.ico" --add-data "reshade\MiNi-reshade.zip;reshade" --add-data "7z\7z.exe;7z" --add-data "7z\7z.dll;7z" --hidden-import tqdm --hidden-import win32com.client --version-file main.txt main.py
 
