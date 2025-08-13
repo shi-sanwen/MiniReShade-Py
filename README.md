@@ -116,7 +116,7 @@ miniworld-installer/
 
 ## 📜 许可证
 
-本项目采用 [MIT License](LICENSE)。具体内容见LICENSE文件。
+本项目采用 Apache-2.0 license。具体内容见LICENSE文件。
 
 ---
 
