@@ -57,7 +57,7 @@ miniworld-installer/
 
 1. **克隆项目仓库**：
    ```bash
-   git clone https://github.com/shisanwen-gmail/mini-reshade-installer.git
+   git clone https://github.com/shi-sanwen/mini-reshade-installer.git
    ```
 
 2. **安装依赖项**：
